@@ -52,13 +52,13 @@ This project is a **prototype** demonstrating accessibility in online meetings. 
 Get the meeting platform running in 5 minutes:
 
 ### For Normal Users (Browser Only)
-1. Clone the repository: `git clone https://github.com/yourname/mute.ai.git`
+1. Clone the repository: `git clone https://github.com/revocajana/mute.git`
 2. Start the signaling server: `cd server && python signalingserver.py`
 3. Open `client/index.html` in your browser
 4. Share the room ID with other participants
 
 ### For Users with Speech/Hearing Disabilities
-1. Clone the repository: `git clone https://github.com/yourname/mute.ai.git`
+1. Clone the repository: `git clone https://github.com/revocajana/mute.git`
 2. Start the signaling server: `cd server && python signalingserver.py`
 3. Set up Python companion: `cd pythoncompanion && pip install -r requirements.txt`
 4. Run the companion: `python signmodule.py`
